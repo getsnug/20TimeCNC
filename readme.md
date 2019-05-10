@@ -14,7 +14,7 @@
 * This project only has one file with code, which controls all of the important CNC functions
 ## Running the Code:
 1. If you have not set up the arduino before:  
-    a. plug it into your computer with the USB connector  
+    a. Plug it into your computer with the USB connector  
     b. Open the Arduino IDE with the main ino file open  
     c. Click the Upload button in the upper right hand corner  
 2. In the Arduino IDE go to the tool bar and select Tools>Serial Monitor
