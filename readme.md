@@ -24,3 +24,6 @@
 * If you run into an issue connecting to the Arduino make sure that you have the proper device selected under the Tools menu.(See figure 1)
 * Most issues regarding syntax errors may stem from not having the correct libraries installed.
 * If there are no errors thrown by the Arduino, and the steppers won't move, check your wiring and then your power supply.
+
+Figure 1:
+![trouble loading...](https://github.com/getsnug/20TimeCNC/blob/master/Screenshot%20(2)_LI.jpg "Figure 1:")
